@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265918329853",
+    "project_id": "onlinemart-app",
+    "storage_bucket": "onlinemart-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265918329853:android:e87f852b5e6b3c68995f94",
+        "android_client_info": {
+          "package_name": "com.onlinemart.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFnBJICF2CG__hWx4zZbIUx8yoXBV7Gf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
